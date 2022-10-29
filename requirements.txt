@@ -1,0 +1,3 @@
+opencv-python
+imgkit
+ascii_magic
